@@ -1,13 +1,11 @@
 Note Taker 
 This code is used for writing and saving notes This aplication will use Express.js and a JSON file.
 
-Installation
-
-
-Usage
-
-
-Test
+Technologies Used
+-HTML
+-CSS
+-JavaScript
+-Node.js
 
 
 Contributing/Contact
@@ -16,12 +14,16 @@ To submit bug reports, feature requests, or pull requests, please email me at ja
 License
 Licenses used: no licenses used
 
-Deployment
-
+Links
+https://github.com/JayceB17/Express.js-homework
 
 Screenshots
-
+![Alt text](image.png)
 
 Table of Contents
--Express
--JSON
+-Note Taker
+-Technologies Used
+-Contributing/Contact
+-license
+-Links
+-Screenshots
