@@ -1,7 +1,13 @@
 {
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "uuid": "^9.0.0"
-
+    "express": "^4.16.4"
   },
   "scripts": {
     "start": "cd Develop && node server.js",
